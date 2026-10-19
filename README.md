@@ -9,7 +9,7 @@ This repository contains two Python scripts to track live FTSE 100 stock movemen
 ## How to Install and Run
 1. Clone or download this repository to your machine.
 2. Install the required libraries by running this command in your terminal:
-   pip install -r requirements.txt
+   pip install -r FTSE_requirements.txt
 
 3. Run your preferred version by typing one of these commands:
    python FTSE_100_Stock_Tracker.py
